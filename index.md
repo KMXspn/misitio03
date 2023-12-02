@@ -10,7 +10,7 @@
 
 
 ```julia:./ex17
-println("Hola")
+println("Hola Julia")
 ```
 \show{./ex17}
 
