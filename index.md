@@ -12,9 +12,18 @@
 ```julia:./ex17
 println("Hola")
 ```
-
 \show{./ex17}
 
+```julia:./ex18
+function add(a,b)
+     return a+b
+end
+```
+\show{./ex18}
+```julia:./ex19
+add(2,4)
+```
+\show{./ex19}
 
 # Plotly
 ## plty off
